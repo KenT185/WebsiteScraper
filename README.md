@@ -1,8 +1,11 @@
 # Website scraper
 
 # Warning! 
-This project is intended for **Educational Purposes ONLY.**
-The project **should not be used **for any purpose **other than learning.** Do not use it for any other reason than to learn about DOM parsing. 
+This application is intended for **Educational Purposes ONLY.**
+The project **should not be used** for any purpose **other than learning.** Do not use it for any other reason than to learn about DOM parsing. 
+
+## About project
+Simple console application which allows you to scrap webstie. 
 
 ### Input
 User gives category, brand, model, price (from - to) and type of fuel
